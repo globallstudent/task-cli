@@ -126,6 +126,7 @@ fabric.properties
 [Ss]cripts
 pyvenv.cfg
 .venv
+venv
 pip-selfcheck.json
 
 ### VirtualEnv ###
