@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "description": "Writing",
+    "status": "done",
+    "createdAt": "2025-01-11T15:28:57.790037",
+    "updatedAt": "2025-01-11T15:59:54.850044"
+  },
+  {
+    "id": 2,
+    "description": "Coding",
+    "status": "in-progress",
+    "createdAt": "2025-01-11T15:29:04.458591",
+    "updatedAt": "2025-01-11T15:32:30.160214"
+  },
+  {
+    "id": 3,
+    "description": "Swimming",
+    "status": "todo",
+    "createdAt": "2025-01-11T15:29:11.872069",
+    "updatedAt": "2025-01-11T15:29:11.872069"
+  },
+  {
+    "id": 4,
+    "description": "\"reading\"",
+    "status": "todo",
+    "createdAt": "2025-01-11T15:31:45.610092",
+    "updatedAt": "2025-01-11T15:31:45.610092"
+  },
+  {
+    "id": 5,
+    "description": "\"listening\"",
+    "status": "todo",
+    "createdAt": "2025-01-11T15:31:51.350667",
+    "updatedAt": "2025-01-11T15:31:51.350667"
+  },
+  {
+    "id": 6,
+    "description": "\"coding\"",
+    "status": "todo",
+    "createdAt": "2025-01-11T15:31:55.402805",
+    "updatedAt": "2025-01-11T15:31:55.402805"
+  }
+]
